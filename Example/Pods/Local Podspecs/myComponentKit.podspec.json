@@ -1,0 +1,22 @@
+{
+  "name": "myComponentKit",
+  "version": "0.1.0",
+  "summary": "A short description of myComponentKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liugaojian0810/myComponentKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liugaojian0810": "liugaojian0810@163.com"
+  },
+  "source": {
+    "git": "https://github.com/liugaojian0810/myComponentKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "myComponentKit/Classes/**/*"
+}
